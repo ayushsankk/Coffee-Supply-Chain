@@ -18,7 +18,7 @@ Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. 
 
 Prerequisites
 
-* Truffle v5.1.13 (core: 5.0.3)
+* Truffle v4.1.14 (core: 4.1.4)
 * Solidity - ^0.4.25 (solc-js)
 * Node v12.13.0
 
