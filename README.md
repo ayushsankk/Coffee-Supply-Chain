@@ -80,3 +80,9 @@ npm run dev
 to make the web faster, safer, and more open.
 * [Truffle Framework](http://truffleframework.com/) - Truffle is the most popular development framework for Ethereum with a mission to make your life a whole lot easier.
 
+Deployed contract (Rinkeby)
+Transaction ID – 0x190b92ca510d5aee09c2fef2283a3b514e605a5b00fafb47c6acc55342de3571
+
+Contract ID – 0x3ee1dc303efe53477da0bdaa7a767ce4fe7eb184
+
+
